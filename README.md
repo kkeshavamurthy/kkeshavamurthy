@@ -13,6 +13,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=kkeshavamurthy&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kkeshavamurthy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kkeshavamurthy&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -14,4 +14,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kkeshavamurthy&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kkeshavamurthy.kkeshavamurthy)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
